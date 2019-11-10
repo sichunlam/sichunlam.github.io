@@ -1,0 +1,140 @@
+dpid,DatasetInfo,id,Data Provider,uuid,數據提供機構
+5BE565B4,Aided Primary Schools,41f53d43-7d82-4e44-9a9e-d4e9d1c4781c,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,Aided Secondary Schools,b545518d-efe1-446d-8525-530b23047aba,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,Aided Special Schools,afeaa575-a1b7-4975-838d-f3364140879f,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,Caput Secondary Schools,c0a69b19-bf9d-47be-9aa7-286363a6d869,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,Direct Subsidy Scheme Primary Schools,5ea5b3c6-ef95-44cc-a9fc-43f2d69e56f1,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,Direct Subsidy Scheme Secondary Schools,e4d0a272-720c-4f58-9632-85e7e840a0fb,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,English Schools Foundation (Primary),007fcfcb-24e2-4f3a-8b6f-cddf50728bc0,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,English Schools Foundation (Secondary),5ed5e429-415f-4a4d-8321-de664a6e884f,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,Government Primary Schools,e55b1a7d-e52e-4f1a-903f-ab2edb93ebbb,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,Government Secondary Schools,c669790c-a633-4bc4-88a1-3d29e146b792,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,Higher Education Institutions,f0a2212a-61bf-454f-b40f-d2acddd56ebe,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,International Schools (Primary),c64e5114-a331-4f5d-af74-06bc71694225,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,International Schools (Secondary),b819c93e-d17b-46b9-8b30-03302c7f77b9,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,Kindergarten-cum-child Care Centres,3fce2900-bd6d-4ee5-9cc8-6a759adcf3e8,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,Kindergartens,1fe3ee7d-41ad-4249-abd6-f67932cdfa54,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,Private Primary Schools,dd62b320-2a29-430b-926f-d86c99341c31,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,Private Secondary Schools (Day/Evening),af986350-70c6-4c14-8ee8-78f03d6839d1,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+5BE565B4,UGC-Funded Institutions,6a2185d4-212a-49bb-879c-0765400e137a,Education Bureau,ff0a38ae-7a4e-4502-921f-86628dc78476,教育局
+C9935818,Air Quality Monitoring Network of Hong Kong,f94ad59d-a970-407a-abc6-8e5877f7efb0,Environmental Protection Department,e31e12f0-3a12-4a4c-8fba-a5f173bfe9d1,環境保護署
+C9935818,EPD Customer Service Counters,99c11720-42b2-42e1-9199-87e8f0f9f371,Environmental Protection Department,e31e12f0-3a12-4a4c-8fba-a5f173bfe9d1,環境保護署
+C9935818,Environmental Exhibition & Resource Centres,3d537714-8b0d-4ccf-91d4-4abef0a713c7,Environmental Protection Department,e31e12f0-3a12-4a4c-8fba-a5f173bfe9d1,環境保護署
+C9935818,Indoor Air Quality Information Centre,b73d4779-c76e-448f-9149-c94bd7e189d9,Environmental Protection Department,e31e12f0-3a12-4a4c-8fba-a5f173bfe9d1,環境保護署
+C9935818,Recycling Organisations and Collection Points,8379b096-2c23-4dfb-9e4c-5c60d4683b8f,Environmental Protection Department,e31e12f0-3a12-4a4c-8fba-a5f173bfe9d1,環境保護署
+165E709F,Badminton Courts,f9ca5378-c23d-4c9c-9ea5-198c40298fd7,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Barbecue Areas (LCSD),c4aabc15-156c-4aa5-ba6e-145f62972160,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Basketball Courts,fb65b9aa-05d9-4768-a8b1-148072180ba1,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Beaches,4d25dee2-0077-4e08-8ef0-e0c47b85541f,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Bowling Greens,d9e16fa2-262b-4dd9-b553-0ee99957a670,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Children's Play Rooms,41b1ee77-984d-4651-8876-0084ecf372df,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Cycling Sites,90433a14-808f-45a0-9694-8be4c43359f6,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Fitness Rooms,59a2216c-7051-4965-818a-2a323cc79205,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Golf Facilities,66d2a48c-e8e9-4183-b4d6-6cc3171dcbd8,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Grass Pitches,5054697b-fd48-43cd-8369-c5a6fa61e1c2,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Hard-surface Pitches,e12e1f78-58c8-4eeb-ae83-bc2fa72edd91,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Holiday Camps,ab4d1fac-cca2-4164-add9-59c6e838e1d3,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Horse Riding Schools,e6541f7e-31be-4ed9-9304-c621ebe79400,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Libraries,7bd8e9d4-26c8-449b-9cef-601c8b1d3682,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Museums,d9f77749-eac6-4d55-89f1-873f1bf1ce97,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Other Recreation & Sports Facilities,8a4d3d78-97fa-4c6e-90f5-f4a47a567673,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Parks Zoos and Gardens,5901dbab-6f89-4c41-8eec-e1f8ea9a7966,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Performing Venues,fc6f0f06-14f0-4ba8-9446-3859d4b90250,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Recreation Grounds,31d4b251-2d79-45b9-abdb-0d938ca4b9a6,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Sports Centres,d1a2e8e0-8636-41e9-b664-0e64b86860a2,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Sports Climbing Facilities,beba93e9-c747-47d9-84d8-2cd8e701bfbb,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Sports Grounds,ea5e29ec-a308-44aa-a40f-2cb97db71814,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Squash Courts,815169af-54c5-458f-9aa4-536aa9223406,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Stadia,fcb93faf-3ede-4bcd-9c65-7ef4a63e7f79,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Swimming Pools,5d60a82e-54bf-4872-922f-f949567094fe,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Table Tennis Tables,5c080cec-4777-43b7-8476-81ea6462f834,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Tennis Courts,c6a51001-fd45-4f19-931e-f6c6347b3aca,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+165E709F,Water Sports Centres,95922fdd-a482-4665-a4d4-0ecdbad7db28,Leisure and Cultural Services Department,1050dde5-446f-4233-ad91-82cbdad5e947,康樂及文化事務署
+5D6ACD9E,Barbecue Areas (AFCD),93da2d9d-d45d-4d4b-b7ba-b5ed310c4930,Agriculture Fisheries and Conservation Department,4fcad63f-6e71-4873-a1c2-85c3fa682e1f,漁農自然護理署
+5D6ACD9E,Camp Sites,8d6eb5e8-13be-4b79-b0c2-19f647009c54,Agriculture Fisheries and Conservation Department,4fcad63f-6e71-4873-a1c2-85c3fa682e1f,漁農自然護理署
+5D6ACD9E,Country Park Water Dispensers,167c426a-278f-4ce6-b8f5-824de4e2fc23,Agriculture Fisheries and Conservation Department,4fcad63f-6e71-4873-a1c2-85c3fa682e1f,漁農自然護理署
+5D6ACD9E,Country Parks,6bbc334b-cdb1-48ce-8a78-c58979327124,Agriculture Fisheries and Conservation Department,4fcad63f-6e71-4873-a1c2-85c3fa682e1f,漁農自然護理署
+5D6ACD9E,Marine Parks,3474c0cf-c44f-46b8-883b-0fe99547ef5f,Agriculture Fisheries and Conservation Department,4fcad63f-6e71-4873-a1c2-85c3fa682e1f,漁農自然護理署
+5D6ACD9E,Marine Reserve,dfdfcd17-8772-44de-91c2-6a788094ecf7,Agriculture Fisheries and Conservation Department,4fcad63f-6e71-4873-a1c2-85c3fa682e1f,漁農自然護理署
+5D6ACD9E,Visitor Centres of Country Parks,dda880e5-08fc-41e9-be2a-571f1e8c5c2f,Agriculture Fisheries and Conservation Department,4fcad63f-6e71-4873-a1c2-85c3fa682e1f,漁農自然護理署
+2D367B34,Bedspace Apartments (Licensed),c17189ae-26e9-47ba-8157-13470e107e3f,Home Affairs Department,afdfff49-e6f0-4256-b480-506bb8aecffe,民政事務總署
+2D367B34,Community Halls & Community Centres,ab11c2b0-8437-41d2-afe7-9f4418b817df,Home Affairs Department,afdfff49-e6f0-4256-b480-506bb8aecffe,民政事務總署
+2D367B34,Community Support Teams for Ethnic Communities,265a92ce-85d3-4abb-a773-8b337ef44443,Home Affairs Department,afdfff49-e6f0-4256-b480-506bb8aecffe,民政事務總署
+2D367B34,District Offices and Sub-offices,bdc1924a-5391-4964-ab15-b731f0757d07,Home Affairs Department,afdfff49-e6f0-4256-b480-506bb8aecffe,民政事務總署
+2D367B34,Guesthouses (Licensed),512bd9ef-4411-4499-baa2-d1a666cba155,Home Affairs Department,afdfff49-e6f0-4256-b480-506bb8aecffe,民政事務總署
+2D367B34,Holiday Camps (Licensed),4de3e3db-ea5c-4a65-b268-91efa1df4bce,Home Affairs Department,afdfff49-e6f0-4256-b480-506bb8aecffe,民政事務總署
+2D367B34,Holiday Flats (Licensed),3363c551-4ed9-4905-b92b-5becf68a432d,Home Affairs Department,afdfff49-e6f0-4256-b480-506bb8aecffe,民政事務總署
+2D367B34,Home Affairs Department Public Enquiry Service Centres,c9bb825f-5571-4e09-a572-ae3bba962f97,Home Affairs Department,afdfff49-e6f0-4256-b480-506bb8aecffe,民政事務總署
+2D367B34,Hotels (Licensed),cbdfed29-e3ed-43bd-985e-e53027f27425,Home Affairs Department,afdfff49-e6f0-4256-b480-506bb8aecffe,民政事務總署
+2D367B34,Race Relations Unit Home Affairs Department,fe245773-e1ff-4b59-9e11-94677aa99c87,Home Affairs Department,afdfff49-e6f0-4256-b480-506bb8aecffe,民政事務總署
+2D367B34,Support Service Centres for Ethnic Minorities,147f7540-f5e4-4638-a14c-a5a6470deccc,Home Affairs Department,afdfff49-e6f0-4256-b480-506bb8aecffe,民政事務總署
+∞E+00,Births and Deaths Registries,f2a15891-25cd-454c-b032-619182c827d8,Immigration Department,9034ef82-7daa-40c7-be98-0f276101cd18,入境事務處
+∞E+00,Control Points,990f06bc-a4e8-4b55-bc14-ff0c5f3357ce,Immigration Department,9034ef82-7daa-40c7-be98-0f276101cd18,入境事務處
+∞E+00,Immigration Branch Offices,b241681d-e854-4714-929a-4a67b37babcb,Immigration Department,9034ef82-7daa-40c7-be98-0f276101cd18,入境事務處
+∞E+00,Marriage Registries,0841507d-ffb6-4f61-94e3-e30abec1c7b5,Immigration Department,9034ef82-7daa-40c7-be98-0f276101cd18,入境事務處
+∞E+00,Offices in Immigration Headquarters,d76adee5-d67a-4719-aa3b-ad612c726e5e,Immigration Department,9034ef82-7daa-40c7-be98-0f276101cd18,入境事務處
+∞E+00,Registration of Persons Offices,35d69247-1cdc-4003-aa69-ecfe2e386213,Immigration Department,9034ef82-7daa-40c7-be98-0f276101cd18,入境事務處
+1992C279,Care and Attention Home for Severely Disabled Persons,c3150960-1e04-478e-9b11-41c2d488d48f,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Care and Attention Home for the Aged Blind,1ef0ed6d-80db-4988-8163-6397b1ff771b,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Child Care Centre,2cbe89f7-b959-4259-97c6-1610e7a2d9d1,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Communication and Information Service Unit for Visually Impaired Persons,a9f0b1ac-a78c-48f1-943d-6f59ef2be442,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Community Rehabilitation Day Centre,84746aef-0930-4e0e-a146-2f8fdf21eb63,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Community Rehabilitation Network,2aa0452b-ecb0-4961-a707-0fe9a0169cfc,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Correctional Home,e86edcd4-9184-4c95-b16e-9b424938b7e0,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Criminal and Law Enforcement Injuries Compensation Section,bff76699-e903-4f50-b743-24b66525c909,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Day Activity Centre,ab9ddde8-4b24-4543-8b33-c7c2fe72a337,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,District Social Welfare Offices,8261adb1-d952-4f60-a802-761128490cd7,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,District Support Centre for Persons with Disabilities,53e50ae7-56e9-4f6f-aee6-db869652e1b7,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Early Education and Training Centre,cb5374ef-91bc-4994-a554-560bc2263392,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Extended Hours Service,6956ba45-9f3e-474b-9a4b-53a2e8d6a82b,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Family and Child Protective Services Units,1ce9f63f-250f-48b0-b771-805f845efc12,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Halfway House,4c823729-3982-48a5-9de7-d4b098d494f9,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Halfway House with Special Provision,c26e8bda-72c4-4b1e-a145-1d3ea1ad5bd9,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Hostel for Moderately Mentally Handicapped Persons,a9cb1e37-756d-431e-b0fe-ba2cda8b4f46,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Hostel for Severely Mentally Handicapped Persons,1b9ff8da-fa7c-4476-90f9-40d42618cb11,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Hostel for Severely Physically Handicapped Persons,3e53b8a7-158b-472e-9b20-1bfc51d7494b,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Hostel for Severely Physically Handicapped Persons with Mental Handicap,4be241f5-04a0-4a66-b511-3d9d2584cdf8,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Integrated Children and Youth Services Centre,91eef4a1-2fbf-49cb-a565-71a4613d0172,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Integrated Community Centre for Mental Wellness,42ff9d05-c2da-4ef1-a958-94d15d2b14a0,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Integrated Family Service Centres / Integrated Services Centres,97480e15-a0ad-4820-bc9f-aeb56845a338,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Integrated Rehabilitation Services Centre,d7ca51fd-7d62-485f-8cde-4f470fe5b5da,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Integrated Vocational Rehabilitation Services Centre,7bd167a9-4bed-49ee-9e51-6400be4c574b,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Integrated Vocational Training Centre,915edee0-79f4-4e3a-ad42-9abf4a51966b,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Long Stay Care Home,333d8e16-e951-486b-9649-2fed2297a7e8,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Medical Social Services Units,b708dd95-a86a-44a6-b9bf-0545112c0e15,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Multi-service Centre for Hearing Impaired Persons,a50729e5-d8b0-45a8-9987-eb36ffbf790d,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Mutual Help Child Care Centre,03a65393-ba4d-4c96-bdbe-d6f07cc1a5f8,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Neighbourhood Support Child Care Project,75ea00df-e465-447c-8e35-67c21e09e65c,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Occasional Child Care Service,525b53a3-da1d-498d-b2b4-a4499e181893,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Parents / Relatives Resource Centres,76e37e82-2dfd-4a1b-a360-f12b96d74a3d,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Rehabilitation and Training Centre for Visually Impaired Persons,ff77b9b4-520f-45f3-9806-e44c9680fa04,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Residential Special Child Care Centre,28cd0d7f-1ae4-4071-bc3f-a715387f0c47,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Senior Citizen Card Office,140e7841-ad85-4af3-8239-a2a0e5f6058d,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Sheltered Workshop,b84bd95e-1f04-4c55-b88e-04a273e09921,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Social & Recreational Centre for the Disabled,3661f466-4e78-4385-a3f4-1fb535bf6052,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Social Security Appeal Board,6bb6a439-6bd7-4af4-91c5-b41fa84e6abe,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Social Security Field Units,f6a1d6de-4e47-4956-9ca5-e445ef24f9b0,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Special Child Care Centre,ec84622e-e0dd-4e83-a414-6f3e74bebc70,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Subvented and Contract Homes providing Subsidised Residential Care Services for the Elderly,3d2430b8-ff99-47d1-8483-757fd1729e0e,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Supported Hostel,e1bf312a-51f6-4093-a81d-55ef9046d908,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Traffic Accident Victims Assistance Section,f46ab4d0-1460-4ef4-8bb1-24436526d0c3,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+1992C279,Transitional Care and Support Centre for Tetraplegic Patients,855677e1-c3c7-453a-a12c-abd83d61a42a,Social Welfare Department,945aae53-9a34-4cb8-82b5-2a52991aed6e,社會福利署
+8B5003FB,Clinics / Health Centres under the Department of Health,fe3738e1-c632-4724-9568-ffd41e435c02,Department of Health,ea9adeb0-9509-412e-a3d9-e7e394ba3e2e,衞生署
+61E8F488,Delivery Offices,ebb49e65-1c67-41a1-b45a-2f14ebabeb85,Hongkong Post,8bbdf4de-4c79-413c-bcb0-1786d58910bb,香港郵政
+61E8F488,Post Offices,7f7d7abc-32a8-4c2c-b109-03d80352e7c7,Hongkong Post,8bbdf4de-4c79-413c-bcb0-1786d58910bb,香港郵政
+61E8F488,Street Posting Boxes,63ea163e-7628-49b3-954a-511075fb3547,Hongkong Post,8bbdf4de-4c79-413c-bcb0-1786d58910bb,香港郵政
+C3A32C4B,Designated Car Testing Centres,81f90955-afac-4dba-baa4-c83b8dbd3da2,Transport Department,27bdf3ec-9fb1-4200-a0c7-4dced2e37929,運輸署
+C3A32C4B,Driving Test Centres,54704126-fb1d-45f3-9708-67da05f7b068,Transport Department,27bdf3ec-9fb1-4200-a0c7-4dced2e37929,運輸署
+C3A32C4B,Licensing Offices,5f041fa8-95ae-4cde-87cf-397be504f1d9,Transport Department,27bdf3ec-9fb1-4200-a0c7-4dced2e37929,運輸署
+C3A32C4B,Vehicle Examination Centres,49ecb235-13ad-4efe-9197-cd0e5d8278a7,Transport Department,27bdf3ec-9fb1-4200-a0c7-4dced2e37929,運輸署
+F1730991,General Outpatient Clinics under The Hospital Authority,2852ec0f-719f-494e-9772-e53af3a2f5bb,Hospital Authority,6ffaea46-5367-41ab-ad56-710cdd87d7ad,醫院管理局
+F1730991,Hospitals under the Hospital Authority,25714788-aea1-4aaa-a76c-8a943513b5d0,Hospital Authority,6ffaea46-5367-41ab-ad56-710cdd87d7ad,醫院管理局
+871CC2B1,Health Education Exhibition and Resource Centre,b2e8aa49-927b-45e3-9fc9-130c169c4836,Food and Environmental Hygiene Department,7c6ed451-0448-4c48-b400-369bd05d6271,食物環境衞生署
+CB7A151E,Information of Completed URA Redevelopment Projects,7026f1c3-3d90-41b1-8a4a-aa950129d92b,Urban Renewal Authority,86af5f82-d098-49b6-b588-f0a51f97d9f5,市區重建局
+CB7A151E,URA Building Rehabilitation Projects Cost Reference,014e6bc7-e748-4cbd-a362-be60a8b57c85,Urban Renewal Authority,86af5f82-d098-49b6-b588-f0a51f97d9f5,市區重建局
+7150920,Job Centres,fa2ab453-69e1-45ba-bde6-4cc1d8fcaf2e,Labour Department,8caa89e8-c62b-40ad-9667-fe434607d745,勞工處
+CD047EC9,Private Treaty Grant Cases Executed from 1 January 2018 onwards,f38039e6-29d9-4151-860a-dec8f9ee3d08,Lands Department,e5d7ec0c-71c0-4460-9d08-9254aa863038,地政總署
+CD047EC9,Public Open Space,48e12cef-cbfd-4509-9c70-7ad31250bef5,Lands Department,e5d7ec0c-71c0-4460-9d08-9254aa863038,地政總署
+CD047EC9,Short Term Tenancy,1770bf16-a8ed-4124-bb42-2f5f937b03bf,Lands Department,e5d7ec0c-71c0-4460-9d08-9254aa863038,地政總署
+CD047EC9,Vacant Government Sites Available for Application for Greening or Government/Institution/Community Uses,ec2ddcb0-621a-4c0a-adc4-4f0fbe401a6e,Lands Department,e5d7ec0c-71c0-4460-9d08-9254aa863038,地政總署
+AE4E65FC,Wi-Fi.HK Hotspot Locations,bbea81e1-135b-49b1-9067-8c99f56fa985,Office of the Government Chief Information Officer,c7ba55dd-e0b5-4ce1-a789-b5a016ac8071,政府資訊科技總監辦公室
