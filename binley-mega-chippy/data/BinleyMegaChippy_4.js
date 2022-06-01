@@ -1,0 +1,1 @@
+var json_BinleyMegaChippy_4 = {"type":"FeatureCollection","name":"BinleyMegaChippy_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Binley Road, Coventry CV3 2TN"},"geometry":{"type":"Point","coordinates":[-1.44597448472915,52.402291231597502]}}]}
